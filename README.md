@@ -39,7 +39,7 @@ A simple Movie Search App built using HTML, CSS and JavaScript.
 Clone the repository.
 
 ```bash
-git clone https://github.com/yourusername/movie-search-app.git
+git clone https://github.com/ajinkya029/Movie-Search-App.git
 ```
 
 Open the project.
